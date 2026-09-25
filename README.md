@@ -1,4 +1,4 @@
-<h2 align="center">📄 Resume</h2>
+<h2 align="center">📄 Click on Resume to Download</h2>
 
 <div align="center">
 
